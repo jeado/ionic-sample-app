@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+.web-sample-masthead {
+	background: #12132B;
+	padding: 20px;
+}
+.web-sample-masthead .web-sample-lg {
+	font-size: 90px;
+	line-height: 140px;
+}
+.web-sample {
+	display: block;
+	font-weight: 500;
+	color: #A8A9DE;
+	text-align: center;
+}
+.web-sample-masthead .lead {
+	margin: 0 auto 30px;
+	font-size: 20px;
+	color: #fff;
+}
+.web-sample-masthead .web-sample {
+	margin: 0 auto 30px;
+}
